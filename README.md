@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @owlherpes69
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning computer science, programing, and automation
-- 💞️ I’m looking to collaborate on any project worthwhile so let me know if your looking for some help or if youd like to work together
-- 📫 How to reach me on here
+- 👋 Hi, I’m @owlherpes69- 👀 I’m interested in technology- 🌱 I’m currently learning computer science, programing, and automation- 💞️ I’m looking to collaborate on any project worthwhile so let me know if your looking for some help or if youd like to work together- 📫 How to reach me on here
